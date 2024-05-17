@@ -4,8 +4,10 @@ baslik{
     margin-bottom: 24px;
     font: size 32px; 
 }
-    display: block;
+misra{
+    display:block;
 }
+
 dortluk{
     display: block;
     margin-bottom: 16px;
